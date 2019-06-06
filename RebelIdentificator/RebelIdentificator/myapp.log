@@ -1,0 +1,46 @@
+2019-06-05 23:28:05,586 [7] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:28:05,608 [7] INFO RebelIdentificator.Controllers.RebelIdentificationController - Rebel identified
+2019-06-05 23:28:22,689 [7] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:28:22,690 [7] INFO RebelIdentificator.Controllers.RebelIdentificationController - Rebel identified
+2019-06-05 23:28:47,533 [7] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:28:47,533 [7] INFO RebelIdentificator.Controllers.RebelIdentificationController - Rebel identified
+2019-06-05 23:29:53,382 [27] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:29:53,383 [27] INFO RebelIdentificator.Controllers.RebelIdentificationController - Rebel identified
+2019-06-05 23:30:10,809 [7] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:30:10,809 [7] INFO RebelIdentificator.Controllers.RebelIdentificationController - Rebel identified
+2019-06-05 23:30:24,339 [27] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:30:24,339 [27] INFO RebelIdentificator.Controllers.RebelIdentificationController - Rebel identified
+2019-06-05 23:32:17,794 [7] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:32:17,794 [7] INFO RebelIdentificator.Controllers.RebelIdentificationController - Rebel identified
+2019-06-05 23:32:51,348 [27] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:32:51,348 [27] INFO RebelIdentificator.Controllers.RebelIdentificationController - Rebel identified
+2019-06-05 23:33:00,713 [27] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:33:00,714 [27] INFO RebelIdentificator.Controllers.RebelIdentificationController - Rebel identified
+2019-06-05 23:35:41,373 [34] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:35:41,373 [34] INFO RebelIdentificator.Controllers.RebelIdentificationController - Rebel identified
+2019-06-05 23:45:18,005 [22] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:45:18,005 [23] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:45:18,005 [15] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:45:18,005 [20] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:45:18,005 [17] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:45:34,585 [20] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:51:16,310 [8] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:51:16,310 [7] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:51:16,310 [9] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:51:25,463 [9] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:53:56,023 [8] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:58:04,421 [7] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-05 23:58:04,496 [7] INFO RebelIdentificator.Controllers.RebelIdentificationController - Rebel identified
+2019-06-06 00:00:11,679 [8] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-06 00:00:11,825 [8] ERROR RebelIdentificator.Controllers.RebelIdentificationController - The name or the planet can not be null RebelIdentificator.Models.RebelIdentificationReply
+2019-06-06 00:00:11,825 [8] DEBUG RebelIdentificator.Controllers.RebelIdentificationController - {}
+2019-06-06 00:03:01,785 [10] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-06 00:03:01,920 [10] ERROR RebelIdentificator.Controllers.RebelIdentificationController - The name or the planet can not be null RebelIdentificator.Models.RebelIdentificationReply
+2019-06-06 00:03:02,431 [10] DEBUG RebelIdentificator.Controllers.RebelIdentificationController -    at RebelIdentificator.Controllers.RebelIdentificationController.IdentifyRebel(Rebel rebel) in C:\Ian_Eito_Martin\Concatel_prueba\RebelIdentificator\RebelIdentificator\Controllers\RebelIdentificationController.cs:line 36
+2019-06-06 00:10:34,432 [8] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-06 00:10:34,567 [8] ERROR RebelIdentificator.Controllers.RebelIdentificationController - Rebel could not be identified due to a CustomException caught. Error message: The name or the planet can not be null
+2019-06-06 00:10:34,640 [8] DEBUG RebelIdentificator.Controllers.RebelIdentificationController - StackTrace:    at RebelIdentificator.Controllers.RebelIdentificationController.IdentifyRebel(Rebel rebel) in C:\Ian_Eito_Martin\Concatel_prueba\RebelIdentificator\RebelIdentificator\Controllers\RebelIdentificationController.cs:line 36
+2019-06-06 00:10:34,640 [8] DEBUG RebelIdentificator.Controllers.RebelIdentificationController - Source: RebelIdentificator
+2019-06-06 00:10:34,658 [8] DEBUG RebelIdentificator.Controllers.RebelIdentificationController - Rebel info:  tierra
+2019-06-06 18:43:48,398 [19] INFO RebelIdentificator.Controllers.RebelIdentificationController - Identifying rebel
+2019-06-06 18:43:48,415 [19] INFO RebelIdentificator.Controllers.RebelIdentificationController - Rebel identified
